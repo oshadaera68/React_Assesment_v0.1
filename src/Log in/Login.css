@@ -1,0 +1,42 @@
+.fill__container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+}
+
+.login__cover{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 70%;
+    width: 30%;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid red;
+    background-color: white;
+}
+
+.title__container {
+    display: flex;
+    align-items: center; 
+    height: 20%;
+    color: red; 
+}
+
+.form__container {
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.btn__container {
+    height: 20%;
+    width: 100%;
+}
