@@ -17,13 +17,14 @@
     align-items: center;
     justify-content: center;
     background-color: #95a5a6;
+    background-image: url("./assets/20210423_223353.jpg");
 }
 
 .title__container {
     display: flex;
     align-items: center; 
     height: 20%;
-    color: white; 
+    color: rgb(215, 23, 23); 
 }
 
 .form__container {
@@ -56,6 +57,8 @@
 .btn{
     position: absolute;
     top: -4vh;
+    width: 15vh;
+    height: 6vh;
 }
 
 a{
