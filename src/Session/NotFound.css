@@ -1,0 +1,18 @@
+.wrong__Container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.image__Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* max-width: 23px; */
+}
+
+.image{
+    width: 307px;
+    height: 189px;
+}
