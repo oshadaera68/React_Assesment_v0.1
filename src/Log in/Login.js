@@ -1,9 +1,9 @@
 import './Login.css'
-import './normalize.css'
 import Typography from '@mui/material/Typography';
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 import React from 'react';
+import {Link} from 'react-router-dom'
 function LogIn(){
     return( 
     <div className="fill__container">
@@ -22,7 +22,7 @@ function LogIn(){
             </div>
             <div className='userAcc_container'>
             <Typography variant="h8" gutterBottom fontFamily="Ubuntu" color="#833471" component="div">
-                Create new user account? <a href='../User Register/UserRegister.js'>click here</a>
+                Create new user account? <Link to='/user'>click here</Link>
             </Typography>
             </div>     
         </div>  
