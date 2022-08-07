@@ -1,1 +1,41 @@
+.first__Name{
+    position: absolute;
+    top: 12px;
+    width: 50vh;
+    left: 3vh;
+}
 
+.last__Name{
+    position: absolute;
+    top: 12px;
+    width: 50vh;
+    left: 19vh;
+}
+
+.email{
+    position: absolute;
+    top: 12px;
+    width: 50vh;
+    left: 38vh;
+}
+
+.user__Name{
+    position: absolute;
+    top: 12vh;
+    left: -147vh;
+    width: 50vh;
+}
+
+.user__Name{
+    position: absolute;
+    top: 12vh;
+    left: -147vh;
+    width: 50vh;
+}
+
+.password{
+    position: absolute;
+    top: 6vh;
+    width: 50vh;
+    left: 69vh;
+}

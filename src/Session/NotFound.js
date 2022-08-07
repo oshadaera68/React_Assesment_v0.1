@@ -8,7 +8,7 @@ function NotFound() {
             <div className='image__Container'>
                 <img src={notFound} alt='404 error' className='image' />
             </div>
-            <Link to="/Login">
+            <Link to="/">
                 <Button variant="outlined" size="medium">
                     Go To Back Page
                 </Button>
