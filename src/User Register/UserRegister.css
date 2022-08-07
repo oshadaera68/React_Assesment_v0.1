@@ -1,41 +1,97 @@
-.first__Name{
+.first__Name {
     position: absolute;
-    top: 12px;
+    top: 1vh;
     width: 50vh;
     left: 3vh;
 }
 
-.last__Name{
+.last__Name {
     position: absolute;
-    top: 12px;
+    top: 1vh;
     width: 50vh;
-    left: 19vh;
+    left: 12vh;
 }
 
-.email{
+.email {
     position: absolute;
-    top: 12px;
+    top: 1vh;
     width: 50vh;
-    left: 38vh;
+    left: 22vh;
 }
 
-.user__Name{
+.user__Name {
     position: absolute;
-    top: 12vh;
+    top: 9vh;
     left: -147vh;
     width: 50vh;
 }
 
-.user__Name{
+.password {
     position: absolute;
-    top: 12vh;
-    left: -147vh;
+    top: 3vh;
     width: 50vh;
+    left: 62vh;
 }
 
-.password{
+.city {
     position: absolute;
-    top: 6vh;
+    top: 3vh;
     width: 50vh;
-    left: 69vh;
+    left: 72vh;
+}
+
+.street {
+    position: absolute;
+    top: 11vh;
+    width: 50vh;
+    left: -97vh;
+}
+
+.street__no {
+    position: absolute;
+    top: 11vh;
+    width: 50vh;
+    left: -88vh;
+}
+
+.zip__code{
+    position: absolute;
+    top: 5vh;
+    width: 50vh;
+    left: 122vh;
+}
+
+.lat__value{
+    position: absolute;
+    top: 12vh;
+    width: 50vh;
+    left: -47vh;
+}
+
+.long__value{
+    position: absolute;
+    top: 12vh;
+    width: 50vh;
+    left: -38vh;
+}
+
+.mobile__no{
+    position: absolute;
+    top: 12vh;
+    width: 50vh;
+    left: -28vh;
+}
+
+.clear{
+    position: absolute;
+    left: 43vh;
+    top: 143px;
+    width: 15vh;
+}
+
+.save{
+    position: absolute;
+    left: 63vh;
+    top: 14vh;
+    width: 14vh;
 }
