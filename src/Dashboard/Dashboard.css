@@ -1,0 +1,104 @@
+.h3 {
+    font-family: Comfortaa, sans-serif;
+    color: white;
+}
+
+.nav-bar{
+    position: fixed;
+    height: 65px;
+    width: 100%;
+    font-size: 19px;
+    background-color: blue;
+    /*box-shadow: 2px 1px 2px 1px black;*/
+    top: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    z-index: 1;
+}
+
+.btn__center{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -6vh;
+}
+
+.btn2{
+    position: relative;
+    left: 5vh;
+    width: 14vh;
+    height: 34px;
+    font-family: Comfortaa,sans-serif;
+}
+.btn1{
+    position: relative;
+    left: -8vh;
+    width: 14vh;
+    height: 34px;
+}
+
+.card_1{
+    position: absolute;
+    top: 12vh;
+    width: 40vh;
+    left: 34vh;
+}
+
+.type{
+    position: relative;
+    left: 6vh;
+    top:1vh;
+    color: white;
+}
+
+.card_2{
+    position: absolute;
+    top: 12vh;
+    width: 40vh;
+    left: 123vh;
+}
+
+.span{
+    position: relative;
+    left: 6vh;
+}
+
+.type1{
+    position: relative;
+    left: 6vh;
+    top:1vh;
+    color: white;
+}
+
+.span1{
+    position: relative;
+    left: 1vh;
+}
+
+.span2{
+    position: relative;
+    left: 1vh;
+}
+
+.span3{
+    position: relative;
+    left: 9vh;
+}
+
+.card_3{
+    position: absolute;
+    top: 56vh;
+    width: 40vh;
+    left: 79vh;
+}
+
+.span4{
+    position: relative;
+    left: 0;
+}
+
+.span5{
+    position: relative;
+    left: 10vh;
+}

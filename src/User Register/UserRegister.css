@@ -2,29 +2,36 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    height: 50%;
-    width: 90%;
+    height: 60%;
+    width: 80%;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
-
 
 .clear{
     position: absolute;
-    left: 125vh !important;
-    top: 134px !important;
+    left: 34vh !important;
+    top: 4vh !important;
     width: 15vh;
 }
 
 .save{
     position: absolute;
-    left: 130vh !important;
-    top: 134px !important;
+    left: 56vh !important;
+    top: -3px !important;
     width: 14vh;
 }
 
 .txt{
-    left: 0;
-    justify-content: center;
+    left: 4vh;
+}
 
+.table{
+    position: absolute;
+    top: 32vh;
+    color: white;
+}
+
+.col{
+    color: white;
 }
