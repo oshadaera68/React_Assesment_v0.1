@@ -3,6 +3,7 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
+import {Link} from 'react-router-dom'
 import './Dashboard.css';
 
 function Dashboard() {
@@ -16,7 +17,7 @@ function Dashboard() {
                         <p className='h3'>Dashboard</p>
                     </div>
                     <div className='btn__center'>
-                        <Button variant="contained" className='btn1' color='success'>Product</Button>
+                        <Link to='/product'><Button variant="contained" className='btn1' color='success'>Product</Button></Link>
                         <Button variant="contained" className='btn2' color='success'>Cart</Button>
                     </div>
                 </nav>

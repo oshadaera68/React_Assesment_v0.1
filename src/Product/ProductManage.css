@@ -1,0 +1,29 @@
+.combo{
+    position: absolute;
+    top: 12vh;
+    left: 2vh;
+}
+
+.text1{
+    position: absolute;
+    left: 2vh;
+}
+
+.text2{
+    position: absolute;
+    top: 0;
+    left: 34vh;
+}
+
+.textArea{
+    position: absolute;
+    left: 90vh;
+    top: 28vh;
+}
+
+.btn1{
+    position: absolute;
+    left: 140vh;
+    top: 30vh;
+    width: 12vh;
+}
