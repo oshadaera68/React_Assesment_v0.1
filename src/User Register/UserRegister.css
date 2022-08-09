@@ -1,97 +1,24 @@
-.first__Name {
-    position: absolute;
-    top: 1vh;
-    width: 50vh;
-    left: 3vh;
+.text__container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 50%;
+    width: 90%;
+    align-items: center;
+    justify-content: space-around;
 }
 
-.last__Name {
-    position: absolute;
-    top: 1vh;
-    width: 50vh;
-    left: 12vh;
-}
-
-.email {
-    position: absolute;
-    top: 1vh;
-    width: 50vh;
-    left: 22vh;
-}
-
-.user__Name {
-    position: absolute;
-    top: 9vh;
-    left: -147vh;
-    width: 50vh;
-}
-
-.password {
-    position: absolute;
-    top: 3vh;
-    width: 50vh;
-    left: 62vh;
-}
-
-.city {
-    position: absolute;
-    top: 3vh;
-    width: 50vh;
-    left: 72vh;
-}
-
-.street {
-    position: absolute;
-    top: 11vh;
-    width: 50vh;
-    left: -97vh;
-}
-
-.street__no {
-    position: absolute;
-    top: 11vh;
-    width: 50vh;
-    left: -88vh;
-}
-
-.zip__code{
-    position: absolute;
-    top: 5vh;
-    width: 50vh;
-    left: 122vh;
-}
-
-.lat__value{
-    position: absolute;
-    top: 12vh;
-    width: 50vh;
-    left: -47vh;
-}
-
-.long__value{
-    position: absolute;
-    top: 12vh;
-    width: 50vh;
-    left: -38vh;
-}
-
-.mobile__no{
-    position: absolute;
-    top: 12vh;
-    width: 50vh;
-    left: -28vh;
-}
 
 .clear{
     position: absolute;
-    left: 43vh;
-    top: 143px;
+    left: 125vh !important;
+    top: 134px !important;
     width: 15vh;
 }
 
 .save{
     position: absolute;
-    left: 63vh;
-    top: 14vh;
+    left: 130vh !important;
+    top: 134px !important;
     width: 14vh;
 }

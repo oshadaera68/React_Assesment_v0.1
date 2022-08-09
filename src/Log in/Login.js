@@ -18,7 +18,7 @@ function LogIn(){
             <TextField id="standard-basic" className='text2' type='password' label="Password" variant="standard" />
             </div>
             <div className='btn__container'>
-                <Button variant="contained" className='btn'>Log in</Button>
+                <Link to='/dashboard'><Button variant="contained" className='btn'>Log in</Button></Link>
             </div>
             <div className='userAcc_container'>
             <Typography variant="h8" gutterBottom fontFamily="Ubuntu" color="#833471" component="div">
