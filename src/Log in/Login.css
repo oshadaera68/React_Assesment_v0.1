@@ -38,12 +38,12 @@
 
 .text1{
     position: absolute;
-    top: 35vh;
+    top: 0vh;
 }
 
 .text2{
     position: absolute;
-    top: 49vh;
+    top: -1vh;
 }
 
 .btn__container {
@@ -56,8 +56,8 @@
 
 .btn{
     position: absolute;
-    top: 67vh;
-    left: 89vh;
+    top: 3vh;
+    left: 0;
     width: 15vh;
     height: 6vh;
 }
