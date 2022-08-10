@@ -5,5 +5,28 @@
 }
 
 .combo1{
+    position: absolute;
+    top: 12vh;
+    left: 2vh;
+}
 
+.txt1{
+    position: absolute;
+    top: -12vh;
+    left: 100vh;
+    width: 56vh;
+}
+
+.txt2{
+    position: absolute;
+    top: 4vh;
+    left: 44vh;
+    width: 56vh;
+}
+
+.btn1{
+    position: absolute;
+    top: 9vh;
+    left: 139vh;
+    /*width: 56vh;*/
 }

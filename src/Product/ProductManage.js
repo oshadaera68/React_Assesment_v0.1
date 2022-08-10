@@ -45,7 +45,7 @@ function ProductManage() {
                 />
             </div>
             <div>
-                <Link to='./dashboard'><Button variant="contained" className='btn1' color='success'>Save</Button></Link>
+                <Button variant="contained" style={{width:'14vh',left:'140vh', top:'229px'}} className='btn1' color='success'>Save</Button>
                 <Button variant="contained" style={{left:'109vh', top:'229px'}} className='btn2'>Clear</Button>
             </div>
         </div>

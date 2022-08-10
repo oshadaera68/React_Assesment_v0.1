@@ -14,8 +14,8 @@ function LogIn(){
                 </Typography>
             </div>
             <div className='form__container'>
-            <TextField id="standard-basic" className='text1' size='small' label="User Name" variant="standard" />
-            <TextField id="standard-basic" className='text2' type='password' label="Password" variant="standard" />
+            <TextField id="standard-basic" className='text1' style={{left:'2vh', width:'34vh'}} size='small' label="User Name" variant="standard" />
+            <TextField id="standard-basic" className='text2' style={{left:'2vh', width:'34vh'}} type='password' label="Password" variant="standard" />
             </div>
             <div className='btn__container'>
                 <Link to='/dashboard'><Button variant="contained" className='btn' color='success'>Log in</Button></Link>

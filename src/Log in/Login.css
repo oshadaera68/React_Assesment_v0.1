@@ -38,12 +38,12 @@
 
 .text1{
     position: absolute;
-    top: 0vh;
+    top: -1vh;
 }
 
 .text2{
     position: absolute;
-    top: -1vh;
+    top: 12vh;
 }
 
 .btn__container {

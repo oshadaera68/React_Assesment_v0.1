@@ -21,20 +21,21 @@
     display: flex;
     justify-content: center;
     position: relative;
-    top: -6vh;
+    top: -8vh;
 }
 
 .btn2{
     position: relative;
-    left: 5vh;
+    top: 2vh;
+    left: -24vh;
     width: 14vh;
     height: 34px;
     font-family: Comfortaa,sans-serif;
 }
 .btn1{
-    position: relative;
-    left: -8vh;
-    width: 14vh;
+    position: absolute;
+    /*left: -23vh;*/
+    /*width: 12vh;*/
     height: 34px;
 }
 
